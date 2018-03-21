@@ -1,8 +1,7 @@
 # robotframework-redislibrary
-## robotframework-redislibrary有哪些功能
-* 新增了多种格式的数据类型的set和get方法。
-* 可以新增string、list、set等类型的数据。
-* 新增了连接redis时password的验证。
+## robotframework-redislibrary 新增了哪些功能
+* 新增了string、list、set、sorted set等数据类型的set和get方法。
+* 新增了连接redis时的身份验证。
 * 采用pool连接方式。
 ## 说明
 * 本项目仅供参考使用。
