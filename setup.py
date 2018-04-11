@@ -25,7 +25,7 @@ Topic :: Software Development :: Testing
 """[1:-1]
 
 setup(
-    name='robotframework-redislibrary',
+    name='robotframework-redislibrary2',
     version=VERSION,
     description="robotframework-redislibrary is a Robot Framework test library for manipulating in-memory data which store in Redis",
     author="Donghaopeng",

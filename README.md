@@ -12,12 +12,7 @@
     python setup.py install
     
     或者
-    pip install tox==2.9.1
-    pip install coverage==4.5.1
-    pip install robotframework==3.0
-    pip install redis==2.10.5
-    pip install deco==0.5.2
-    python setup.py install
+    pip install -U robotframework-redislibrary2
 
 ### 感谢
 * 再次感谢原作者：Traitanit Huangsri，以及其提供的项目：https://github.com/nottyo/robotframework-redislibrary.git 。
