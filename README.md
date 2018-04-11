@@ -9,11 +9,15 @@
 * 使用过程中有任何bug都可以提出来，互相交流，非常感谢。
 ## 安装
 ```python
-pip install tox
-pip install coverage
+pip install tox==2.9.1
+pip install coverage==4.5.1
 pip install robotframework==3.0
 pip install redis==2.10.5
-pip install deco
+pip install deco==0.5.2
+python setup.py install
+```
+或者
+```python
 python setup.py install
 ```
 ## 感谢

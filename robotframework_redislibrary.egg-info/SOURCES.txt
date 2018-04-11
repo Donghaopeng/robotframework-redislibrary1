@@ -8,4 +8,5 @@ robotframework_redislibrary.egg-info/SOURCES.txt
 robotframework_redislibrary.egg-info/dependency_links.txt
 robotframework_redislibrary.egg-info/not-zip-safe
 robotframework_redislibrary.egg-info/requires.txt
+robotframework_redislibrary.egg-info/requires.txt.bak
 robotframework_redislibrary.egg-info/top_level.txt
