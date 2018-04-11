@@ -28,9 +28,9 @@ setup(
     name='robotframework-redislibrary',
     version=VERSION,
     description="robotframework-redislibrary is a Robot Framework test library for manipulating in-memory data which store in Redis",
-    author="Traitanit Huangsri",
-    author_email='traitanit.hua@gmail.com',
-    url='https://github.com/nottyo/robotframework-redislibrary.git',
+    author="Donghaopeng",
+    author_email='1173619682@qq.com',
+    url='https://github.com/Donghaopeng/robotframework-redislibrary.git',
     packages=[
         'RedisLibrary'
     ],
@@ -44,3 +44,4 @@ setup(
     test_suite='tests',
     tests_require=test_requirements
 )
+
