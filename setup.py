@@ -7,7 +7,7 @@ from RedisLibrary.version import VERSION
 requirements = [
     'tox',
     'coverage',
-    'robotframework>=3.0',
+    'robotframework==3.0.4',
     'redis==2.10.5',
     'deco'
 ]

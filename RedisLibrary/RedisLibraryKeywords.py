@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-from robot.api import logger
-from robot.api import deco
-from version import VERSION
 import redis
+from robot.api import deco
+from robot.api import logger
+
+from version import VERSION
 
 __author__ = 'donghp'
 __email__ = '1173619682@qq.com'
